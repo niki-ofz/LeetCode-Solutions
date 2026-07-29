@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
