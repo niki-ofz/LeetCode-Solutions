@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0709-to-lower-case](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -54,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
