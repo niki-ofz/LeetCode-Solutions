@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0709-to-lower-case](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
