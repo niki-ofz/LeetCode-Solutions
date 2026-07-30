@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [3024-type-of-triangle](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,10 +39,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [3024-type-of-triangle](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [3024-type-of-triangle](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
