@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [3024-type-of-triangle](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Hash Table
@@ -46,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Simulation
@@ -60,4 +63,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
