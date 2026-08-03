@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -49,6 +50,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [3024-type-of-triangle](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
