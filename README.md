@@ -26,6 +26,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [1389-create-target-array-in-the-given-order](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3024-type-of-triangle](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Hash Table
@@ -60,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
