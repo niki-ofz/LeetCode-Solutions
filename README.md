@@ -37,11 +37,13 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0133-clone-graph](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [0202-happy-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -58,6 +60,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -103,4 +106,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
