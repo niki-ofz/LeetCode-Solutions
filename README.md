@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Simulation
@@ -80,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +99,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
