@@ -35,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0133-clone-graph](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0217-contains-duplicate](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Two Pointers
@@ -83,4 +84,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
