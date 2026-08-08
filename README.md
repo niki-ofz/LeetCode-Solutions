@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0137-single-number-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
@@ -110,4 +111,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0137-single-number-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 <!---LeetCode Topics End-->
