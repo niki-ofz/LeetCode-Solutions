@@ -15,6 +15,7 @@
 | [0131-palindrome-partitioning](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | [0414-third-maximum-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0877-stone-game](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -65,6 +67,7 @@
 | [0258-add-digits](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Simulation
@@ -91,6 +94,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +119,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
