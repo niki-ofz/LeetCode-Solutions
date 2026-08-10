@@ -16,6 +16,7 @@
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1510-stone-game-iv](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1510-stone-game-iv](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
@@ -97,6 +99,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1510-stone-game-iv](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,8 +128,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1510-stone-game-iv](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1510-stone-game-iv](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
