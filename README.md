@@ -36,6 +36,7 @@
 | [1920-build-array-from-permutation](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 | [3731-find-missing-elements](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -46,6 +47,7 @@
 | [0202-happy-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@
 | [0217-contains-duplicate](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3024-type-of-triangle](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3024-type-of-triangle/) | Easy |
 | [3731-find-missing-elements](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
