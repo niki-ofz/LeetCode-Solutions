@@ -112,14 +112,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
