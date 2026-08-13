@@ -8,6 +8,7 @@
 | [0131-palindrome-partitioning](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0709-to-lower-case](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -157,4 +159,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/niki-ofz/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
